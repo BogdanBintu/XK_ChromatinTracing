@@ -1,0 +1,1308 @@
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 3</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H1_R1_2_3</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+ 
+ <valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 4</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H2_R4_5_6</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+		
+		
+  <valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 5</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H3_R7_8_9</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+   <valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 6</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H4_R10_11_12</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+                             
+  <valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 7</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H5_R13_14_15</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+   <valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 8</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H6_R16_17_18</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+                                  
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 9</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H7R19_20_21</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H7R19_20_21</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H7R19_20_21</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 10</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H8R22_23_24</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H8R22_23_24</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H8R22_23_24</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 11</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H9R25_26_27</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H9R25_26_27</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H9R25_26_27</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 12</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H10R28_29_30</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H10R28_29_30</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H10R28_29_30</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 13</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H11R31_32_33</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H11R31_32_33</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H11R31_32_33</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 14</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H12R34_35_36</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H12R34_35_36</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H12R34_35_36</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 15</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H13R37_38_39</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H13R37_38_39</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H13R37_38_39</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 16</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H14R40_41_42</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H14R40_41_42</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H14R40_41_42</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 17</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H15R43_44_45</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H15R43_44_45</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H15R43_44_45</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 18</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H16R46_47_48</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H16R46_47_48</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H16R46_47_48</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 19</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H17R49_50_51</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H17R49_50_51</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H17R49_50_51</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 20</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H18R52_53_54</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H18R52_53_54</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H18R52_53_54</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 21</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H19R55_56_57</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H19R55_56_57</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H19R55_56_57</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 22</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H20R58_59_60</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H20R58_59_60</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H20R58_59_60</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 23</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H21R61_62_63</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H21R61_62_63</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H21R61_62_63</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 25</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H22R64_65_66</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H22R64_65_66</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H22R64_65_66</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 26</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H23R67_68_69</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H23R67_68_69</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H23R67_68_69</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 27</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H24R70_71_72</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H24R70_71_72</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H24R70_71_72</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 28</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H25R73_74_75</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H25R73_74_75</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H25R73_74_75</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 29</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H26R76_77_78</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H26R76_77_78</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H26R76_77_78</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 30</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H27R79_80_81</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H27R79_80_81</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H27R79_80_81</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 2</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H28R82_83_84</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H28R82_83_84</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H28R82_83_84</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 3</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H29R85_86_87</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H29R85_86_87</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H29R85_86_87</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 4</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H30R88_89_90</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H30R88_89_90</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H30R88_89_90</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 5</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H31R91_92_93</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H31R91_92_93</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H31R91_92_93</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 6</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H32R94_95_96</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H32R94_95_96</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H32R94_95_96</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 7</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H33R97_98_99</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H33R97_98_99</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H33R97_98_99</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 8</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H34R100_101_102</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H34R100_101_102</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H34R100_101_102</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 9</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H35R103_104_105</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H35R103_104_105</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H35R103_104_105</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 10</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H36R106_107_108</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H36R106_107_108</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H36R106_107_108</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 11</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H37R109_110_111</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H37R109_110_111</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H37R109_110_111</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 12</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H38R112_113_114</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H38R112_113_114</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H38R112_113_114</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 13</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H39R115_116_117</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H39R115_116_117</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H39R115_116_117</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 14</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H40R118_119_120</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H40R118_119_120</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H40R118_119_120</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 15</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H41R121_122_123</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H41R121_122_123</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H41R121_122_123</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 16</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H42R124_125_126</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H42R124_125_126</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H42R124_125_126</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 17</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H43R127_128_129</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H43R127_128_129</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H43R127_128_129</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 18</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H44R130_131_132</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H44R130_131_132</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H44R130_131_132</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 19</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H45R133_134_135</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H45R133_134_135</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H45R133_134_135</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 20</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H46R136_137_138</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H46R136_137_138</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H46R136_137_138</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 21</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H47R139_140_141</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H47R139_140_141</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H47R139_140_141</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 22</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H48R142_143_144</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H48R142_143_144</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H48R142_143_144</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 23</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H49R145_146_147</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H49R145_146_147</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H49R145_146_147</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 25</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H50R148_149_150</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H50R148_149_150</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H50R148_149_150</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 26</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H51R151_152_153</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H51R151_152_153</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H51R151_152_153</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 27</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H52R154_155_156</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H52R154_155_156</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H52R154_155_156</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 28</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H53R157_158_159</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H53R157_158_159</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H53R157_158_159</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 29</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H54R160_161_162</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H54R160_161_162</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H54R160_161_162</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 30</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H55R163_164_165</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H55R163_164_165</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H55R163_164_165</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 2</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H56R166_167_168</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H56R166_167_168</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H56R166_167_168</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 3</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H57R169_170_171</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H57R169_170_171</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H57R169_170_171</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 4</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H58R172_173_174</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H58R172_173_174</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H58R172_173_174</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 5</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H59R175_176_177</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H59R175_176_177</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H59R175_176_177</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 6</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H60R178_179_180</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H60R178_179_180</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H60R178_179_180</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 7</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H61R181_182_183</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H61R181_182_183</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H61R181_182_183</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 8</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H62R184_185_186</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H62R184_185_186</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H62R184_185_186</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 9</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H63R187_188_189</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H63R187_188_189</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H63R187_188_189</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 10</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H64R190_191_192</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H64R190_191_192</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H64R190_191_192</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 11</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H65R193_194_195</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H65R193_194_195</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H65R193_194_195</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 12</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H66R196_197_198</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H66R196_197_198</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H66R196_197_198</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 13</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H67R199_200_201</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H67R199_200_201</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H67R199_200_201</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 14</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H68R202_203_204</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H68R202_203_204</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H68R202_203_204</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 15</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H69R205_206_207</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H69R205_206_207</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H69R205_206_207</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 16</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H70R208_209_210</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H70R208_209_210</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H70R208_209_210</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 17</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H71R211_212_213</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H71R211_212_213</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H71R211_212_213</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 18</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H72R214_215_216</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H72R214_215_216</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H72R214_215_216</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 19</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H73R217_218_219</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H73R217_218_219</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H73R217_218_219</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 20</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H74R220_221_222</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H74R220_221_222</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H74R220_221_222</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 21</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H75R223_224_225</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H75R223_224_225</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H75R223_224_225</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 22</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H76R226_227_228</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H76R226_227_228</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H76R226_227_228</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 23</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H77R229_230_231</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H77R229_230_231</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H77R229_230_231</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 24</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H78R232_233_234</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H78R232_233_234</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H78R232_233_234</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 25</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H79R235_236_237</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H79R235_236_237</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H79R235_236_237</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 26</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H80R238_239_240</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H80R238_239_240</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H80R238_239_240</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 27</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H81R241_242_243</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>D:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H81R241_242_243</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H81R241_242_243</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
+
+
+
+<valve_protocol>StripFormamide</valve_protocol> 
+        <valve_protocol>Hybridize 28</valve_protocol>
+    
+    <wakeup>20000</wakeup>
+   <change_directory>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H82Rep0</change_directory> 
+      <loop name = "Position Loop Zscan1" increment = "name"><item name = "Conv1"></item></loop>
+        
+       <delay>2000</delay>
+      <copy_directory>
+        <source_path>C:\Data\TULA ROTATION\TK_FFBBL1_SampleA_1_27_2023\H82Rep0</source_path>
+        <target_path>Z:\TK_FFBBL1_SampleA_1_27_2023\H82Rep0</target_path>
+        <delete_source>True</delete_source>
+      </copy_directory>                                   
+
